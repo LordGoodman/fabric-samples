@@ -3,7 +3,7 @@
 下面以运行环境为ubuntu16.04为例，简述fabric-samples的安装流程：
 
 依赖工具：node(v6.11.0或以上)，npm(3.10.10或以上)以，golang(1.8或以上)要求设置GOPATH,
-         docker(17.09.0-ce和以上)，docker-compose(1.17或以上)。
+         docker(17.09.0-ce或以上)，docker-compose(1.17或以上)。
 
 i.	下载本代码库
 cd $GOPATH/src
