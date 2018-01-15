@@ -1,8 +1,9 @@
-此代码库修改自https://github.com/hyperledger/fabric-samples，请确保运行环境中已安装node(v6.11.0或以上)和npm(3.10.10或以上)。
+此代码库修改自https://github.com/hyperledger/fabric-samples
 
-安装流程：
+下面以运行环境为ubuntu16.04为例，简述fabric-samples的安装流程：
 
-假设读者运行环境已安装golang，并且正确设置GOPATH。
+依赖工具：node(v6.11.0或以上)，npm(3.10.10或以上)以，golang(1.8或以上)要求设置GOPATH,
+         docker(17.09.0-ce和以上)，docker-compose(1.17或以上)。
 
 i.	下载本代码库
 cd $GOPATH/src
